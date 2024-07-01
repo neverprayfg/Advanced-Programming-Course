@@ -1,0 +1,3 @@
+/mnt/c/Users/jd/Desktop/homework/Advanced Programming Course/cpp-learning/AP1400-2-HW1/build/CMakeFiles/main.dir
+/mnt/c/Users/jd/Desktop/homework/Advanced Programming Course/cpp-learning/AP1400-2-HW1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/jd/Desktop/homework/Advanced Programming Course/cpp-learning/AP1400-2-HW1/build/CMakeFiles/rebuild_cache.dir
