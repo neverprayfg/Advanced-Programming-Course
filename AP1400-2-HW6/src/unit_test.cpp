@@ -3,12 +3,12 @@
 
 #include <cmath>
 
-#include "q1.h"
-#include "q2.h"
-#include "q3.h"
-#include "q4.h"
+#include "../include/q1.h"
+#include "../include/q2.h"
+#include "../include/q3.h"
+#include "../include/q4.h"
 
-/*
+
 TEST(HW6Test, TEST1) {
     auto min1 = q1::gradient_descent(0.01, 0.1, cos);
     EXPECT_NEAR(min1, 3.14, 0.1);
@@ -98,7 +98,7 @@ TEST(HW6Test, TEST9) {
     EXPECT_NEAR(kalman.y, 0.4440, 0.01);
     // std::cout << kalman.x << ", " << kalman.y << std::endl;
 }
-*/
+
 
 
 

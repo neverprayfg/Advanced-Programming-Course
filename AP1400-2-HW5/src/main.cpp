@@ -1,10 +1,10 @@
 #include <iostream>
 #include <gtest/gtest.h>
-#include "ingredient.h"
-#include "sub_ingredients.h"
-#include "espresso_based.h"
-#include "cappuccino.h"
-#include "mocha.h"
+#include "../include/ingredient.h"
+#include "../include/sub_ingredients.h"
+#include "../include/espresso_based.h"
+#include "../include/cappuccino.h"
+#include "../include/mocha.h"
 
 int main(int argc, char **argv)
 {
